@@ -8,5 +8,9 @@ Simplilearn Post-Graduate Data Analytics Certificate
 ## Work Experience
 Coordinator, Talent Assessment & Analytics @ Chicago Transit Authority
 
-## Certificate Projects
+## SQL Projects
 [SQL - ScienceQ Tech Employee-Performance](url)
+SQL - Air Cargo
+
+## Python Projects
+Python - App Rating Prediction
