@@ -1,4 +1,4 @@
-# SherinaHampton.github.io
+# SherinaHampton
 
 ## Education
 Master of Arts in Industrial/Organizational Psychology
