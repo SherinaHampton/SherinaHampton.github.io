@@ -9,4 +9,4 @@ Simplilearn Post-Graduate Data Analytics Certificate
 Coordinator, Talent Assessment & Analytics @ Chicago Transit Authority
 
 ## Certificate Projects
-SQL - ScienceQ Tech Employee-Performance
+SQL - ScienceQ Tech Employee-Performance - https://github.com/SherinaHampton/ScienceQ-Tech-Employee-Performance
