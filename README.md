@@ -2,6 +2,7 @@
 
 ## Education
 Master of Arts in Industrial/Organizational Psychology
+
 Simplilearn Post-Graduate Data Analytics Certificate
 
 ## Work Experience
